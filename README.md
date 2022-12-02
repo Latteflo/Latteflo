@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+
+
+<h1 align="center">I'm Flo</h1>
+
+<h3 align="center">A passionate frontend developer from Romania, currently living in Belgium!</h3>
+
+
 <!--
 **Latteflo/Latteflo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

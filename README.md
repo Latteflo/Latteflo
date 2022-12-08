@@ -1,10 +1,15 @@
-### Hi there 👋
+Hi there 👋
+
+I'm Flo,
+
+A frontend developer from Romania, currently living in Belgium!
+
+With passion and dedication, I'm continuously striving to improve my skills and stay up-to-date with the latest technologies.
 
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=latteflo&theme=react&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-<h1 align="center">I'm Flo</h1>
 
-<h3 align="center">A passionate frontend developer from Romania, currently living in Belgium!</h3>
 
 
 <!--
@@ -20,4 +25,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+---
+[![](https://visitcount.itsvg.in/api?id=latteflo&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
 -->

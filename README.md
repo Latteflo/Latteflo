@@ -2,13 +2,10 @@ Hi there 👋
 
 I'm Flo,
 
-A frontend developer from Romania, currently living in Belgium!
-
-With passion and dedication, I'm continuously striving to improve my skills and stay up-to-date with the latest technologies.
+A Junior FrontEnd Developer currently living in Belgium, looking for an oportunity that will mark the start of my career change.
 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=latteflo&theme=react&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-
 
 
 

@@ -1,13 +1,15 @@
 Hi there 👋
 
-I'm Flo,
+ I'm Flo, a <strong>software developer</strong> with a passion for creating innovative and user-friendly applications. I have experience in <em>web development</em>.
+ I am always looking for new challenges and opportunities to learn and grow as a developer.
 
-A Junior FrontEnd Developer currently living in Belgium, looking for an oportunity that will mark the start of my career change.
+In my free time, I enjoy 🏊‍♀️ swimming, traveling, and trying out new coffee shops (hence the username "latteflo"). I am also an avid reader and enjoy learning about new technologies and trends in the software development industry. 🤓
 
+Feel free to check out my projects and contributions on GitHub. I am always open to feedback and collaboration, so don't hesitate to <a href="mailto:sf.simion.f@gmail.com">reach out</a>! 📩
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=latteflo&theme=react&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+Thanks for visiting my profile.
 
-
+Flo 🙋‍♀️
 
 <!--
 **Latteflo/Latteflo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

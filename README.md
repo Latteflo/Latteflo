@@ -1,7 +1,7 @@
 
 Hi there 👋
 
-I'm Flo, a <strong>software developer</strong> with a background in aviation and a passion for creating innovative and user-friendly applications. 
+I'm Flo, a <strong>web developer</strong> with a background in aviation and a passion for creating innovative and user-friendly applications. 
 I am always looking for new challenges and opportunities to learn and grow as a developer.
 
 In my free time, I enjoy 🏊‍♀️ swimming, traveling, and trying out new coffee shops (hence the username "latteflo"). I am also an avid reader and enjoy learning about new technologies and trends in the software development industry. 

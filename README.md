@@ -23,6 +23,8 @@ Thanks for swinging by my digital abode! ✌️ Feel free to connect with me on 
 ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
+![EmailJS](https://img.shields.io/badge/-EmailJS-red?style=flat-square&logo=emailjs)
+![Three.js](https://img.shields.io/badge/-Three.js-black?style=flat-square&logo=three.js)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)

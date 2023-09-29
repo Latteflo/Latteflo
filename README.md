@@ -1,6 +1,4 @@
-# Hello World! 👋 I'm Flo
-
-## A Little Bit About Me...
+## Hello World! 👋 I'm Flo
 
 I'm a **Web Developer** with an interesting twist—I come from an aviation background! 🛫 I blend my love for technology with a passion for creating user-centric applications that make life easier and more enjoyable.
 

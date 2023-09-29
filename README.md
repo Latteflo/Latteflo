@@ -1,36 +1,42 @@
+# Hello World! 👋 I'm Flo
 
-Hi there 👋
+## A Little Bit About Me...
 
-I'm Flo, a <strong>web developer</strong> with a background in aviation and a passion for creating innovative and user-friendly applications. 
-I am always looking for new challenges and opportunities to learn and grow as a developer.
+I'm a **Web Developer** with an interesting twist—I come from an aviation background! 🛫 I blend my love for technology with a passion for creating user-centric applications that make life easier and more enjoyable.
 
-In my free time, I enjoy 🏊‍♀️ swimming, traveling, and trying out new coffee shops (hence the username "latteflo"). I am also an avid reader and enjoy learning about new technologies and trends in the software development industry. 
+I'm not just all about code, though. When I'm not busy building or debugging applications, you'll find me doing laps in the swimming pool 🏊‍♀️, embarking on travel adventures 🌍, or exploring new coffee shops ☕ (after all, I am "latteflo").
 
-<!-- Technical Skills 💻: -->
-<!-- JavaScript React Next JS Styled Components HTML5 TailwindCSS CSS3 TypeScript Bootstrap jQuery Visual Studio Code NodeJS MySQL MongoDB
- -->
-Feel free to check out my projects and contributions on GitHub. I am always open to feedback and collaboration, so don't hesitate to <a href="mailto:sf.simion.f@gmail.com">reach out</a>! 📩
+I also love to read 📚—especially anything related to new technologies, industry trends, and just broadening my horizons. My reading habit keeps me in constant learning mode, which is something I find invaluable as a developer.
 
-Thanks for visiting my profile.
+## Let's Connect, Shall We?
 
-Flo 🙋‍♀️
+I cherish the idea of community and collaboration. The tech world is a fascinating place, and it's always better when navigated together. If you have any project ideas, need feedback, or just want to say hi, I'd love to hear from you.
 
-<!--
-**Latteflo/Latteflo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
--🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Don't hesitate to [shoot me an email](mailto:sf.simion.f@gmail.com)! 📩 I'm all ears for feedback, collaboration, or even a good tech joke.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=latteflo&icon=0&color=0)](https://visitcount.itsvg.in)
 
+Thanks for swinging by my digital abode! ✌️ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/) or check out my [Portfolio](http://www.your-portfolio-site.com/).
 
--->
+## Tech Stack
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django)
+![Django REST Framework](https://img.shields.io/badge/-DRF-A30000?style=flat-square&logo=django-rest-framework)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![DBeaver](https://img.shields.io/badge/-DBeaver-405050?style=flat-square&logo=dbeaver&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
+![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
+![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify)
+

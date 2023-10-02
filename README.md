@@ -5,7 +5,7 @@ I'm a **Web Developer** with an interesting twist—I come from an aviation back
 
 I'm not just all about code, though. When I'm not busy building or debugging applications, you'll find me doing laps in the swimming pool 🏊‍♀️, embarking on travel adventures 🌍, or exploring new coffee shops ☕ (after all, I am "latteflo").
 
-I also love to read 📚—especially anything related to new technologies, industry trends, and just broadening my horizons. My reading habit keeps me in constant learning mode, which is something I find invaluable as a developer.
+I also love to read 📚— including anything related to new technologies, industry trends, and just broadening my horizons. My reading habit keeps me in constant learning mode, which is something I find invaluable as a developer.
 
 ## Let's Connect, Shall We?
 

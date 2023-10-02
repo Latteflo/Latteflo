@@ -8,7 +8,7 @@ I'm not just all about code, though. When I'm not busy building or debugging app
 
 I also love to read 📚—especially anything related to new technologies, industry trends, and just broadening my horizons. My reading habit keeps me in constant learning mode, which is something I find invaluable as a developer.
 
-Let's Connect, Shall We?
+## Let's Connect, Shall We?
 
 I cherish the idea of community and collaboration. The tech world is a fascinating place, and it's always better when navigated together. If you have any project ideas, need feedback, or just want to say hi, I'd love to hear from you.
 

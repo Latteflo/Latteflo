@@ -17,7 +17,6 @@ Don't hesitate to [shoot me an email](mailto:sf.simion.f@gmail.com)! 📩 I'm al
 
 Thanks for swinging by my digital abode! ✌️ Feel free to connect with me on [LinkedIn]([https://www.linkedin.com/in/your-linkedin-profile/](https://www.linkedin.com/in/florentina-simion/)) or check out my [Portfolio]([http://www.your-portfolio-site.com/](https://florentina-simion-portfolio.vercel.app/)).
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2553855" style='border:none;'></iframe>
 
 
 ## Tech Stack
